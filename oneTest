@@ -1,1 +1,2 @@
 public void helloWorld(){};
+private int add(int x);
